@@ -1,0 +1,24 @@
+{
+  "name": "per-sec-framework",
+  "version": "1.0.0",
+  "description": "🚀 This project demonstrates how to go beyond functional UI tests as an SDET by integrating **security** and **performance** testing directly into automated pipelines.   It combines **Playwright**, **OWASP ZAP**, and **Google Lighthouse** into a single framework with CI/CD support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raveenadhikari/Security-Perfomance-Test-Framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/raveenadhikari/Security-Perfomance-Test-Framework/issues"
+  },
+  "homepage": "https://github.com/raveenadhikari/Security-Perfomance-Test-Framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
